@@ -8,5 +8,7 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]() [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]() [<img align="left" alt="HTML5" width="26px" src="https://image.flaticon.com/icons/png/512/919/919827.png" />]() [<img align="left" alt="HTML5" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fassets-global.website-files.com%2F5d9bc5d562ffc2869b470941%2F5e20cb3c0b667ba8c8e07571_icon-node--tech.png&f=1&nofb=1" />]() [<img align="left" alt="HTML5" width="26px" src="https://www.corsinvest.it/wp-content/uploads/2019/10/mysql-icon-3.png" />]() [<img align="left" alt="HTML5" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2Fphp%2Fsmall%2Fphp_PNG44.png&f=1&nofb=1" />]() [<img align="left" alt="HTML5" width="26px" src="https://f1.pngfuel.com/png/143/69/213/discord-icon-logo-internet-bot-share-icon-online-chat-dashcube-llc-computer-servers-teamspeak-png-clip-art.png" />]()
 
 ### /
-[<img align="left" alt="Visual Studio Code" width="100px" href="https://videolan.mirror.garr.it/mirrors/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe" src="https://media1.tenor.com/images/6e05c9813769fb5a47d21dcc5c09c788/tenor.gif?itemid=21052378" />]()
+[<img align="left" alt="Visual Studio Code" width="100px" type=button  onClick="parent.open('https://artik77z.github.io/News')" 
+value='click here to view all my projects' src="https://media1.tenor.com/images/6e05c9813769fb5a47d21dcc5c09c788/tenor.gif?itemid=21052378" />]()
+
 
