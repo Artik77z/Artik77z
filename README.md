@@ -1,5 +1,5 @@
 
-### <p align="center">⚙️ &nbsp;Statistic</p>
+### <p align="center">⚙️ &nbsp;Statistics</p>
 <br>
 <p align="center">
 <a href="https://github.com/Artik77z">
